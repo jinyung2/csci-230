@@ -1,0 +1,16 @@
+The result of compression: 
+n 000
+m 001
+o 010
+\n 0110
+r 0111
+d 100
+y 1010
+␣ 1011
+e 11
+*****
+Number of characters: 18
+Number of bits: 54
+The result of decompression: 
+
+more money needed

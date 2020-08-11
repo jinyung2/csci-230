@@ -1,0 +1,220 @@
+1. Sorting Method: Selection Sort
+2. Input file name: small1k.txt
+3. Value sorted: 1000
+4. Key data type: class java.lang.Integer
+5. Key comparisons: 499500
+6. Data moves: 2970
+7. Run time: 20.370256ms
+8. First and Last 5 pairs: 
+<7, 7> <11, 11> <15, 15> <39, 39> <59, 59> 
+<8163, 8163> <8167, 8167> <8175, 8175> <8183, 8183> <8191, 8191> 
+
+1. Sorting Method: Selection Sort
+2. Input file name: small1k.txt
+3. Value sorted: 1000
+4. Key data type: class java.lang.String
+5. Key comparisons: 499500
+6. Data moves: 2967
+7. Run time: 28.554285ms
+8. First and Last 5 pairs: 
+<103, 103> <1035, 1035> <1047, 1047> <1055, 1055> <1063, 1063> 
+<955, 955> <959, 959> <987, 987> <99, 99> <995, 995> 
+
+1. Sorting Method: Insertion Sort
+2. Input file name: small1k.txt
+3. Value sorted: 1000
+4. Key data type: class java.lang.Integer
+5. Key comparisons: 246372
+6. Data moves: 249333
+7. Run time: 9.354156ms
+8. First and Last 5 pairs: 
+<7, 7> <11, 11> <15, 15> <39, 39> <59, 59> 
+<8163, 8163> <8167, 8167> <8175, 8175> <8183, 8183> <8191, 8191> 
+
+1. Sorting Method: Insertion Sort
+2. Input file name: small1k.txt
+3. Value sorted: 1000
+4. Key data type: class java.lang.String
+5. Key comparisons: 243357
+6. Data moves: 246345
+7. Run time: 13.192296ms
+8. First and Last 5 pairs: 
+<103, 103> <1035, 1035> <1047, 1047> <1055, 1055> <1063, 1063> 
+<955, 955> <959, 959> <987, 987> <99, 99> <995, 995> 
+
+1. Sorting Method: Quick Sort
+2. Input file name: small1k.txt
+3. Value sorted: 1000
+4. Key data type: class java.lang.Integer
+5. Key comparisons: 8079
+6. Data moves: 7107
+7. Run time: 1.243908ms
+8. First and Last 5 pairs: 
+<7, 7> <11, 11> <15, 15> <39, 39> <59, 59> 
+<8163, 8163> <8167, 8167> <8175, 8175> <8183, 8183> <8191, 8191> 
+
+1. Sorting Method: Quick Sort
+2. Input file name: small1k.txt
+3. Value sorted: 1000
+4. Key data type: class java.lang.String
+5. Key comparisons: 7855
+6. Data moves: 7092
+7. Run time: 1.318778ms
+8. First and Last 5 pairs: 
+<103, 103> <1035, 1035> <1047, 1047> <1055, 1055> <1063, 1063> 
+<955, 955> <959, 959> <987, 987> <99, 99> <995, 995> 
+
+1. Sorting Method: Merge Sort
+2. Input file name: small1k.txt
+3. Value sorted: 1000
+4. Key data type: class java.lang.Integer
+5. Key comparisons: 4345
+6. Data moves: 9976
+7. Run time: 3.690442ms
+8. First and Last 5 pairs: 
+<7, 7> <11, 11> <15, 15> <39, 39> <59, 59> 
+<8163, 8163> <8167, 8167> <8175, 8175> <8183, 8183> <8191, 8191> 
+
+1. Sorting Method: Merge Sort
+2. Input file name: small1k.txt
+3. Value sorted: 1000
+4. Key data type: class java.lang.String
+5. Key comparisons: 4338
+6. Data moves: 9976
+7. Run time: 2.044701ms
+8. First and Last 5 pairs: 
+<103, 103> <1035, 1035> <1047, 1047> <1055, 1055> <1063, 1063> 
+<955, 955> <959, 959> <987, 987> <99, 99> <995, 995> 
+
+1. Sorting Method: Heap Sort
+2. Input file name: small1k.txt
+3. Value sorted: 1000
+4. Key data type: class java.lang.Integer
+5. Key comparisons: 11671
+6. Data moves: 27237
+7. Run time: 8.411029ms
+8. First and Last 5 pairs: 
+<7, 7> <11, 11> <15, 15> <39, 39> <59, 59> 
+<8163, 8163> <8167, 8167> <8175, 8175> <8183, 8183> <8191, 8191> 
+
+1. Sorting Method: Heap Sort
+2. Input file name: small1k.txt
+3. Value sorted: 1000
+4. Key data type: class java.lang.String
+5. Key comparisons: 11699
+6. Data moves: 27324
+7. Run time: 0.672577ms
+8. First and Last 5 pairs: 
+<103, 103> <1035, 1035> <1047, 1047> <1055, 1055> <1063, 1063> 
+<955, 955> <959, 959> <987, 987> <99, 99> <995, 995> 
+
+1. Sorting Method: Hybrid
+2. Input file name: small1k.txt
+3. Value sorted: 1000
+4. Key data type: class java.lang.Integer
+5. Key comparisons: 7328
+6. Data moves: 11893
+7. Run time: 0.78608ms
+8. First and Last 5 pairs: 
+<7, 7> <11, 11> <15, 15> <39, 39> <59, 59> 
+<8163, 8163> <8167, 8167> <8175, 8175> <8183, 8183> <8191, 8191> 
+
+1. Sorting Method: Hybrid
+2. Input file name: small1k.txt
+3. Value sorted: 1000
+4. Key data type: class java.lang.String
+5. Key comparisons: 7230
+6. Data moves: 11798
+7. Run time: 1.034927ms
+8. First and Last 5 pairs: 
+<103, 103> <1035, 1035> <1047, 1047> <1055, 1055> <1063, 1063> 
+<955, 955> <959, 959> <987, 987> <99, 99> <995, 995> 
+
+1. Sorting Method: Quick Sort
+2. Input file name: large100k.txt
+3. Value sorted: 100000
+4. Key data type: class java.lang.Integer
+5. Key comparisons: 1366259
+6. Data moves: 1172469
+7. Run time: 51.073031ms
+8. First and Last 5 pairs: 
+<1, 1> <2, 2> <3, 3> <4, 4> <5, 5> 
+<99996, 99996> <99997, 99997> <99998, 99998> <99999, 99999> <100000, 100000> 
+
+1. Sorting Method: Quick Sort
+2. Input file name: large100k.txt
+3. Value sorted: 100000
+4. Key data type: class java.lang.String
+5. Key comparisons: 1329232
+6. Data moves: 1173504
+7. Run time: 107.302732ms
+8. First and Last 5 pairs: 
+<1, 1> <10, 10> <100, 100> <1000, 1000> <10000, 10000> 
+<99995, 99995> <99996, 99996> <99997, 99997> <99998, 99998> <99999, 99999> 
+
+1. Sorting Method: Merge Sort
+2. Input file name: large100k.txt
+3. Value sorted: 100000
+4. Key data type: class java.lang.Integer
+5. Key comparisons: 759658
+6. Data moves: 1668928
+7. Run time: 46.052141ms
+8. First and Last 5 pairs: 
+<1, 1> <2, 2> <3, 3> <4, 4> <5, 5> 
+<99996, 99996> <99997, 99997> <99998, 99998> <99999, 99999> <100000, 100000> 
+
+1. Sorting Method: Merge Sort
+2. Input file name: large100k.txt
+3. Value sorted: 100000
+4. Key data type: class java.lang.String
+5. Key comparisons: 759589
+6. Data moves: 1668928
+7. Run time: 93.742879ms
+8. First and Last 5 pairs: 
+<1, 1> <10, 10> <100, 100> <1000, 1000> <10000, 10000> 
+<99995, 99995> <99996, 99996> <99997, 99997> <99998, 99998> <99999, 99999> 
+
+1. Sorting Method: Heap Sort
+2. Input file name: large100k.txt
+3. Value sorted: 100000
+4. Key data type: class java.lang.Integer
+5. Key comparisons: 2169591
+6. Data moves: 4737261
+7. Run time: 156.614624ms
+8. First and Last 5 pairs: 
+<1, 1> <2, 2> <3, 3> <4, 4> <5, 5> 
+<99996, 99996> <99997, 99997> <99998, 99998> <99999, 99999> <100000, 100000> 
+
+1. Sorting Method: Heap Sort
+2. Input file name: large100k.txt
+3. Value sorted: 100000
+4. Key data type: class java.lang.String
+5. Key comparisons: 2168712
+6. Data moves: 4735887
+7. Run time: 185.29746ms
+8. First and Last 5 pairs: 
+<1, 1> <10, 10> <100, 100> <1000, 1000> <10000, 10000> 
+<99995, 99995> <99996, 99996> <99997, 99997> <99998, 99998> <99999, 99999> 
+
+1. Sorting Method: Hybrid
+2. Input file name: large100k.txt
+3. Value sorted: 100000
+4. Key data type: class java.lang.Integer
+5. Key comparisons: 995372
+6. Data moves: 1804808
+7. Run time: 78.237743ms
+8. First and Last 5 pairs: 
+<1, 1> <2, 2> <3, 3> <4, 4> <5, 5> 
+<99996, 99996> <99997, 99997> <99998, 99998> <99999, 99999> <100000, 100000> 
+
+1. Sorting Method: Hybrid
+2. Input file name: large100k.txt
+3. Value sorted: 100000
+4. Key data type: class java.lang.String
+5. Key comparisons: 995860
+6. Data moves: 1805268
+7. Run time: 225.637579ms
+8. First and Last 5 pairs: 
+<1, 1> <10, 10> <100, 100> <1000, 1000> <10000, 10000> 
+<99995, 99995> <99996, 99996> <99997, 99997> <99998, 99998> <99999, 99999> 
+

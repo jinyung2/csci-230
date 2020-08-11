@@ -1,0 +1,18 @@
+Los Angeles -> Seattle  Cost: $200.00
+Los Angeles -> Denver  Cost: $189.00
+San Francisco -> Los Angeles  Cost: $79.00
+Denver -> Los Angeles  Cost: $199.00
+Denver -> San Francisco  Cost: $99.99
+Chicago -> Denver  Cost: $50.00
+Chicago -> Boston  Cost: $179.00
+Boston -> Chicago  Cost: $149.00
+Boston -> New York  Cost: $99.00
+New York -> Chicago  Cost: $99.00
+New York -> Miami  Cost: $49.00
+New York -> New Orlean  Cost: $220.00
+Miami -> New Orlean  Cost: $50.00
+New Orlean -> Los Angeles  Cost: $190.00
+New Orlean -> Denver  Cost: $109.00
+Seattle -> Chicago  Cost: $179.50
+Houston -> Denver  Cost: $69.00
+New Orlean -> Houston  Cost: $100.40
